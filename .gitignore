@@ -1,0 +1,14 @@
+# Node modules for backend and frontend
+/coolinarka-api/node_modules
+/coolinarka-front/node_modules
+
+
+# Dependency directories
+node_modules/
+
+# Build output
+/coolinarka-api/dist
+/coolinarka-front/build
+
+# Environment files
+.env
